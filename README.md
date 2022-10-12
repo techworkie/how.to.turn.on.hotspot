@@ -1,7 +1,7 @@
 # How to Turn on Hotspot?
 
 
-[![how to turn on hotspot](redd.png)](https://github.com/techworkie/how.to.turn.on.hotspot)
+[![how to turn on hotspot](redd.png)](https://icncomputer.com/what-is-a-hotspot/)
 
 
 Turning on your mobile hotspot can be a great way to connect your Wi-Fi-only devices to the internet when you are on the go. If you are commuting without Wi-Fi for example, or if you are stuck in a cafe with no internet, you can use your phone to access what you need on your other devices.
